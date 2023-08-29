@@ -14,11 +14,11 @@ I am an Automation Technician and current student of Automation Engineering with
   <a href="https://www.linkedin.com/in/andressacavalcantesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+
+___
+
 <div align="left">
-  <a href="https://github.com/mgmateus">
+  <a href="https://github.com/Andressa-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andressa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
-
-
