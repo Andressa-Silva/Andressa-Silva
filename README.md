@@ -34,7 +34,7 @@ ___
 
 <div align="left">
   <a href="https://github.com/Andressa-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andressa-Silva\&rank_icon=github&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andressa-Silva&show_icons=true&theme=idnight-purple&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Silva&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
