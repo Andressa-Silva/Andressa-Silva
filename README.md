@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ## I'm Andressa Cavalcante da Silva 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008bsize=50&center=true&vCenter=true&width=1000&lines=Hey+there,I'm+Andressa;Automation+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FFsize=50&center=true&vCenter=true&width=1000&lines=Hey+there,I'm+Andressa;Automation+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## About me
 
