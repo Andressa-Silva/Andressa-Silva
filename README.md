@@ -31,6 +31,9 @@ ___
 
 <div align="left">
   <a href="https://github.com/Andressa-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndressaSilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaSilva&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressasilva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressasilva&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+![Andressa GitHub stats](https://github-readme-stats.vercel.app/api?username=andressasilva\&hide=issues\&show_icons=true)
+
