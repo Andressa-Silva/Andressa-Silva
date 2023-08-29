@@ -14,6 +14,7 @@ I am an Automation Technician and current student of Automation Engineering with
   <a href="https://www.linkedin.com/in/andressacavalcantesilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressaCavalcante&theme=midnight-purple&show_icons=true)
 
 
 
