@@ -17,3 +17,5 @@ I am an Automation Technician and current student of Automation Engineering with
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
   <img  alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
 </picture>
+
+
